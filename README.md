@@ -13,4 +13,5 @@ To work on this project, we will perform the following analysis with Python;
 - Implement the solution by performing hypothesis testing.
 - This will need to be documented when writing the report. 
 
-Dataset [links](http://bit.ly/DSCoreAutolibDataset) and dataset description [link](http://bit.ly/DSCoreAutolibDatasetGlossary)
+### Dataset
+The dataset and glossary to use for this project can be found [here](http://bit.ly/DSCoreAutolibDataset) and dataset description [here](http://bit.ly/DSCoreAutolibDatasetGlossary)
